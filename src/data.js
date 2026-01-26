@@ -1,7 +1,7 @@
 export const portfolioData = {
   hero: {
     name: "Avin Babu P S",
-    title: "Senior Software Engineer & Salesforce Expert",
+    title: "Senior Software Engineer | SF/SFI Developer",
     tagline: "Certified Salesforce & Vlocity Developer | 9x Certified | Double Star Ranger",
     cta: "View My Work"
   },
@@ -58,13 +58,16 @@ export const portfolioData = {
     }
   ],
   certifications: [
-    "Salesforce Certified Platform Developer I & II",
+    "Salesforce Certified Platform Developer I",
+    "Salesforce Certified Platform Developer II",
     "Salesforce Certified OmniStudio Developer",
+    "Salesforce Certified JavaScript Developer",
     "Salesforce Certified Industries CPQ Developer",
     "Salesforce Certified Agentforce Specialist",
     "Salesforce Certified Data Cloud Consultant",
     "Salesforce Certified AI Associate",
-    "Copado Certified Fundamentals I & II"
+    "Copado Certified Fundamentals I",
+    "Copado Certified Fundamentals II"
   ],
   projects: [
     {
@@ -83,6 +86,12 @@ export const portfolioData = {
       title: "Data Cloud Unification",
       description: "Unified data sources for real-time personalization.",
       tech: ["Data Cloud", "Segments"],
+      link: "#"
+    },
+    {
+      title: "Resource Management Screen",
+      description: "Custom UI for resource availability management using LWC and Apex.",
+      tech: ["LWC", "APEX"],
       link: "#"
     }
   ],
