@@ -1,13 +1,13 @@
 export const portfolioData = {
   hero: {
     name: "Avin Babu P S",
-    title: "Senior Software Engineer | SF/SFI Developer",
-    tagline: "Certified Salesforce & Vlocity Developer | 9x Certified | Double Star Ranger",
+    title: "Senior Software Engineer",
+    tagline: "Fullstack Salesforce & Vlocity Developer | 8x SF Certified | 3x Copado Certified | Double Star Ranger",
     cta: "View My Work"
   },
   about: {
     title: "About Me",
-    description: "Certified Salesforce and Vlocity (Salesforce Industries) Developer with 2.8+ years of hands-on experience delivering scalable, user-centric solutions across Media Cloud, Communication Cloud, Sales Cloud, and Service Cloud. Adept in OmniStudio/Vlocity (OmniScripts, Integration Procedures, FlexCards, DataRaptors), Lightning Web Components (LWC), and Apex. Skilled in end-to-end application development, CI/CD with Copado, and Agile delivery.",
+    description: "Certified Salesforce and Vlocity (Salesforce Industries) Developer with 3.5+ years of hands-on experience delivering scalable, user-centric solutions across Media Cloud, Communication Cloud, Sales Cloud, and Service Cloud. Adept in OmniStudio/Vlocity (OmniScripts, Integration Procedures, FlexCards, DataRaptors), Lightning Web Components (LWC), and Apex. Skilled in end-to-end application development, CI/CD with Copado, and Agile delivery.",
     skills: [
       "Salesforce Platform (Sales, Service, Media, Comm Cloud)",
       "Vlocity/Omnistudio",
@@ -19,8 +19,8 @@ export const portfolioData = {
       "Figma UI/UX"
     ],
     stats: [
-      { label: "Certifications", value: "9x" },
-      { label: "Experience", value: "2.8+ Yrs" },
+      { label: "Certifications", value: "11x" },
+      { label: "Experience", value: "3.5+ Yrs" },
       { label: "Badges", value: "230+" }
     ]
   },
