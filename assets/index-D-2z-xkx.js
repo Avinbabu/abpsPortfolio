@@ -4,7 +4,7 @@ var Le=Object.defineProperty;var xe=(e,i,s)=>i in e?Le(e,i,{enumerable:!0,config
         <div class="shape shape-2"></div>
         <div class="shape shape-3"></div>
     `,document.body.prepend(s)}function Ke(){const e=document.querySelector(".hero-content");e&&(e.innerHTML=`
-      <h1 class="hero-title reveal-text">${P.hero.name}</h1>
+      <h1 class="hero-title reveal-text hover-torch">${P.hero.name}</h1>
       <h2 class="hero-subtitle reveal-text delay-1 type-effect">${P.hero.title}</h2>
       <p class="hero-tagline reveal-text delay-2">${P.hero.tagline}</p>
       <a href="#work" class="btn reveal-text delay-3 glitched-btn magnetic">${P.hero.cta}</a>
